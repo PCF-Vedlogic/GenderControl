@@ -32,7 +32,6 @@
     -->
     <resources>
       <code path="index.ts" order="1"/>
-      <css path="css/GenderControl.css" order="1" />
       <!-- UNCOMMENT TO ADD MORE RESOURCES
       <resx path="strings/GenderControl.1033.resx" version="1.0.0" />
       -->
