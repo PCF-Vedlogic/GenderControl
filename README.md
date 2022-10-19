@@ -13,11 +13,11 @@ Other:	3
 
 •	If you want to use the control without any customization, then just import the zip file in Dynamics 365 by navigating through the following path:
 
-o	"GenderControl/GenderControlSolution/bin/Debug/GenderControlSolution.zip"
+o	"GenderControl-master/GenderControlSolution/bin/Debug/GenderControlSolution.zip"
 
 •	If you want to make any changes in the control, then perform the following steps after you have completed making your changes in the code:
 
-o	Delete all the content in the "GenderControl/GenderControlSolution" folder.
+o	Delete all the content in the "GenderControl-master/GenderControlSolution" folder.
 
 o	Open the terminal in the Visual Studio Code. (Ctrl + `)
 
@@ -27,7 +27,7 @@ o	Write the following commands:
 
 	npm run build
 
-o	Go inside the "GenderControl/GenderControlSolution" folder by writing the following command:
+o	Go inside the "GenderControl-master/GenderControlSolution" folder by writing the following command:
 
 	cd .\GenderControlSolution\
 
